@@ -1,10 +1,11 @@
 ## Hey, welcome to my GitHub profile!
 
-Data enthusiast who loves learning and solving real world problems using Statistics and Machine Learning. Currently a Masters in Business Analytics candidate at UC Davis.
+Analytics enthusiast who loves learning and solving real world problems using data. Currently a Business Analyst at Burnsall Associates.
 
-Specialties: Machine Learning, Statistics, Data Visualization, Experimental Design and Analysis, Deep Skills: Python, R, SQL, Tableau
+Specialties: Machine Learning, Statistics, Data Visualization, Experimental Design/Analysis, NLP, Optimization
+Skills: Python, R, SQL, Tableau, QuickSight, Advanced Excel, Spark/Pyspark, Selenium, MongoDB, AWS, Git
 
-I have 2+ years of industry experience, working as a Business Analyst in the healthcare space at ZS. I worked with marketing data to help Big Pharma clients improve engagement through Customer-Centric Marketing campaigns.
+Professional with 3+ years of industry experience in analytics, primarily in consulting. MS in Analytics graduate from UC Davis with a strong background in using Statistics and Machine Learning to derive insights from data.
 
 I am also a huge sports fan and a competitive power-lifter who loves alternative hip-hop and trying new food!
 I have a keen interest in the fields of Data Science, Machine Learning and Statistics.
