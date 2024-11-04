@@ -5,6 +5,6 @@ Analytics enthusiast who loves learning and solving real world problems using da
 Specialties: Web Analytics, Statistics, Data Visualization, Experimental Design/Analysis, ETL, Machine Learning
 Skills: Python, R, SQL, Looker, dbt, Snowflake, Tableau, QuickSight, Advanced Excel, Git
 
-Professional with 3+ years of industry experience in analytics, primarily in consulting. MS in Analytics graduate from UC Davis with a strong background in using Statistics and Machine Learning to derive insights from data.
+Professional with 3+ years of experience in analytics, including experimentation, analytics engineering, and deriving insights. MS in Analytics from UC Davis with a strong background in Statistics and Machine Learning.
 
 Feel free to contact me @ **trishaljadhav@gmail.com** if you have any feedback on my repositories or want to collaborate on a project.
